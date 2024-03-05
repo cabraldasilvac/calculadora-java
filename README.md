@@ -1,15 +1,14 @@
 ## Index
 
--   [Getting Started](#-getting-started)
+- [Getting Started](#-getting-started)
+- [About](#-about)
+- [Folder Structure](#-folder-structure)
+- [Technologies used](#-🚀technologies-used)
+- [Dependency Management](#-dependencies-management)
+- [How to download the Project](#-how-to-download-the-project)
+- [Execution](#execution)
 
--   [About](#-about)
--   [Folder Structure](#-folder-structure)
--   [Technologies used](#-🚀technologies-used)
--   [Dependency Management](#-dependencies-management)
--   [How to download the Project](#-how-to-download-the-project)
--   [Execution](#execution)
-
----
+# Project name: calculadora-java
 
 ## Getting Started
 
@@ -25,8 +24,8 @@ The **JAVA Calculator** project was developed with the purpose of capturing the 
 
 The workspace contains two folders by default, where:
 
--   `src`: the folder to maintain sources
--   `lib`: the folder to maintain dependencies
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
@@ -44,9 +43,9 @@ The project was developed using the following technologies
 
 ## images
 
-![Image_tree](src/assets/image_tree.png 'tree')
-![Image_001](src/assets/image_001.png 'tela001')
-![Image_002](src/assets/image_002.png 'tela002')
+![Image_tree](src/assets/image_tree.png "tree")
+![Image_001](src/assets/image_001.png "tela001")
+![Image_002](src/assets/image_002.png "tela002")
 
 ---
 
