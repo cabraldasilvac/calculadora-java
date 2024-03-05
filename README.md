@@ -8,7 +8,7 @@
 - [How to download the Project](#-how-to-download-the-project)
 - [Execution](#execution)
 
-# Project name: calculadora-java
+## Project name: calculadora-java
 
 ## Getting Started
 
